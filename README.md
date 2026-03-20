@@ -1,4 +1,4 @@
-# 💸 AWS SA Expenses Combiner
+# 💸Expenses Combiner
 
 A fully serverless monthly expense tracker built on **AWS Lambda** and **Amazon S3**. Upload a monthly CSV expenses file and Lambda automatically merges it into a running yearly master file — complete with category subtotals and a grand total in South African Rand (ZAR).
 
